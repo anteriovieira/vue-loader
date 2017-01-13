@@ -8,7 +8,7 @@
   - [PostCSS](features/postcss.md)
   - [Hot Reload](features/hot-reload.md)
 - Configurations
-  - [Pre-Processadores](configurations/pre-processors.md)
+  - [Pré-Processadores](configurations/pre-processors.md)
   - [Manipulação de URls de ativos](configurations/asset-url.md)
   - [Configuração avançado do loader](configurations/advanced.md)
   - [Extraindo arquivos css](configurations/extract-css.md)
